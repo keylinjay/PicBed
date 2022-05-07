@@ -1,2 +1,2 @@
-# PicRep
+# PicBed
 图床
